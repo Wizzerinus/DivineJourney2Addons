@@ -28,7 +28,8 @@
     "patches.rftools.MNBTMatchingRecipe",
     "tweaks.thaumcraft.MArcanePedestal",
     "tweaks.thaumcraft.MTileEssentiaOutput",
-    "accessors.thaumcraft.TileThaumcraftInventoryAccessor"
+    "accessors.thaumcraft.TileThaumcraftInventoryAccessor",
+    "patches.enderio.MNetworkedInventory"
   ],
   "client": [
   ],

@@ -137,13 +137,13 @@ dependencies {
 	)
 	
 	
-//	deobfProvided(
-//			"curse.maven:EnderIO-64578:3328811",
+	deobfProvided(
+			"curse.maven:EnderIO-64578:3328811",
 //			"curse.maven:ProjectIntelligence-306028:2833640",
-//			"curse.maven:EnderCore-231868:2972849",
+			"curse.maven:EnderCore-231868:2972849",
 //			"curse.maven:BrandonsCore-231382:3408276",
 //			"curse.maven:CodeChickenLib-242818:2779848"
-//	)
+	)
 //	compile "cofh:RedstoneFlux:1.12-2.0.0.1:universal"
 	
 	deobfProvided("curse.maven:AppleSkin-248787:2987247")
